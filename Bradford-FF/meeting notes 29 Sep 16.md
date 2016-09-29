@@ -1,5 +1,6 @@
-Notes from meeting with Cat Moss at Bradford Families First</br>
-Thu, 29th September 2016
+**Notes from meeting with Cat Moss at Bradford Families First**</br>
+Date: Thu, 29th September 2016
+Venues: Margaret McMillan Tower, Sir Henry Mitchell House
 
 Meeting Purpose: 
 
