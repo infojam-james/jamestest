@@ -16,15 +16,20 @@
 + Julie [surname tbc] - FF Administrator (n.b. the FF Admin Team consists of 4 people)
 
 ###Key issues:
-
 ####The service is not getting enough 'quick win' referrals
-Certain criteria - e.g. school attendance, GP/dentist registration - should be relatively easy to claim greater numbers of PBR for.  It is the general feeling of Cat and Derek that these 'low-hanging fruit' should be yielding greater numbers, particularly given the 
+Certain criteria - e.g. school attendance, GP/dentist registration - should be relatively easy to claim greater numbers of PBR for.  It is the general feeling of Cat and Derek that these 'low-hanging fruit' should be yielding greater numbers of claims, 
 
-####
+####Not enough time for managers to process referrals
+While the service seeks greater numbers of referrals, there is currently a 'bottleneck' with the managers, whereby they struggle to process (allocate to key workers) large numbers of referrals in a timely manner, resulting in a sometimes-significant time lag before working with a family begins; during that time lag, of course, the families' circumstances might change significantly.
 
-A consistent theme appears to be that, while the processes for 
+A consistent theme appears to be that, while the processes for iden
 
 ###Recommendations:
 
-####Provide more detailed analysis on those families for which it has not been possible to claim PBR
-This is something that Cat does not have the time at present to address.  However, she feels that better intelligence on such families
+####Better intelligence/processes for identifying 'quick win' cases against particular criteria
+
+####Helping managers more efficiently process batches of referrals, with the aim of minimising the bottleneck that occurs between referral and key worker allocation
+
+####More detailed intelligence and analysis of the data relating to those families for which it has not been possible to claim PBR
+
+This is something that Cat does not have the time at present to address.  However, she feels that better quality analysis of such families would yield immediate gains by identifying families that are 'practically there', thus allowing for a final 'push' to get them over a threshold, or to make a case for PBR after review on a pragmatic and common-sense basis.  It would also add significant value through the identifying of trends in where these barriers appear to exist.
