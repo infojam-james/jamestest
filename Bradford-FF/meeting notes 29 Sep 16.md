@@ -1,16 +1,17 @@
-**Notes from meeting with Cat Moss at Bradford Families First**</br>
-Date: Thu, 29th September 2016
+**Notes from meeting at Bradford Families First**</br>
+Date: Thu, 29th September 2016</br>
 Venues: Margaret McMillan Tower, Sir Henry Mitchell House
 
 Meeting Purpose: 
 
-+ An exploration of the general situation at Bradford
++ To build upon the meeting of 16th August with a deeper exploration of the general situation at Bradford
 + More detail around the FF criteria that Bradford has defined
 + More detail around how their data is collected and handled
-+ Identify the key areas they need help with that Infojam might be able to offer assistance
++ Identify key areas where data, systems and/or processes might be improved through assistance from Infojam
 
 
-Colleagues of Cat's that I also met:
+People met:
 
++ Cat Moss - Intelligence Officer
 + Derek [surname tbc] - FF Manager for Early Help
-+ Julie - FF Administrator (1 of 4)
++ Julie [surname tbc] - FF Administrator (n.b. the FF Admin Team consists of 4 people)
