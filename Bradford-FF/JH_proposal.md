@@ -1,5 +1,5 @@
-#Proposal for providing support to Bradford Families First
-##Date: Thu, 29th September 2016
+#Proposal for providing support to Families First, Bradford Metropolitan District Council
+##Thursday, 29th September 2016
 
 ###Key issues
 
@@ -17,6 +17,14 @@ This is something that Cat does not have capacity to address at present.  Howeve
 1. Analysis of the current business situation </br>
 This would use a blend of business analysis techniques to get a picture of how things *are*.  Part of this analysis would be to develop a consensus on how stakeholder believe the business system *should* be.  This is often highly beneficial for revealing where improvements - be they technical or process-driven - need to be made, by getting to the root cause of things such as handover delays and bottlenecks.
 
-2. Develop an analysis data model 
-to allow for to be used with an appropriate data visualisation tool for the purposes of implementing a high-quality data analysis solution
+2. Develop an analysis data model </br>
+This would begin with developing a more detailed knowledge of the various data streams feeding into the programme.  Not only is this crucial for understanding the business system in general, but initially would be for the specific purpose of arriving at a sustainable data model that can be fed into an appropriate analysis visualisation tool for the purposes of developing meaningful business intelligence.
 
+###Proposed Framework
+At the outset, Infojam would provide one person to be on-site in Bradford for two days a week, at a rate of £250 per day.  The exact days may vary from week-to-week.  This individual would be remotely supported by other members of the Infojam team.  In the event such support requires data to be sent outside the Council's network, it is proposed that such data would be anonymised as standard before transmission, and only sent via secure email.
+
+###Data Sharing and Confidentiality
+Infojam Limited and all its employees agree to abide by Bradford MDCs standard data-sharing and confidentality agreements for contractors.
+
+###Technical Requirements
+Infojam will need to access the Bradford MDC network.  Due to the 'hot desking' arrangements in place, and potentially mobile nature of the role, it would be preferable if a Bradford MDC laptop were to be made available for the duration of the contract.  If a laptop is unable to be released, Infojam would propose using its own laptop to access the Council network via a VPN local installation.  It would be necessary to liaise with Bradford IT department to facilitate this.
