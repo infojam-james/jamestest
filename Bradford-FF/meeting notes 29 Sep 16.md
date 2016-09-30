@@ -23,7 +23,7 @@ Certain criteria - e.g. marginal school attendance - should be relatively easy t
 **Recommendation:** an analysis of, their data and data scrutiny processes, with the aim of boosting the instances of cases of this nature.
 
 ####2. Limited capacity of FF managers creates a bottleneck in processing and allocating referrals
-While the service seeks greater numbers of referrals, there is currently a 'bottleneck' with the managers, whereby they struggle to process (allocate to key workers) large numbers of referrals in a timely manner, resulting in a sometimes-significant time lag before working with a family begins; during that time lag, of course, the families' circumstances might change, and opportunities for claiming PBR may be missed. </br>
+While the service seeks greater numbers of referrals, there is currently a 'bottleneck' with the managers, whereby they struggle to process (allocate to lead practitioners) large numbers of referrals in a timely manner, resulting in a sometimes-significant time lag before working with a family begins; during that time lag, the families' circumstances might change, and opportunities for claiming PBR may be missed. </br>
 
 **Recommendation:** an analysis of, and solution to, the requirement to reduce the time required at this stage of the process </br>
 
