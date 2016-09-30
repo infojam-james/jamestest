@@ -11,7 +11,7 @@
 
 ###People met:
 
-+ Cat Moss - Intelligence Officer
++ Cat Moss - Intelligence Officer (FF and Children's Services)
 + Derek [surname tbc] - FF Manager for Early Help
 + Julie [surname tbc] - FF Administrator (n.b. the FF Admin Team consists of 4 people)
 
