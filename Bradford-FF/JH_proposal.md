@@ -15,9 +15,9 @@ This is something that Cat does not have the time at present to address.  Howeve
 
 ###Recommended support focus'
 
-An analysis of, their data and data scrutiny processes, with the aim of boosting the instances of cases of this nature.
+1. Analyse, their data and data scrutiny processes, with the aim of boosting the instances of cases of this nature.
 
-an analysis of, and solution to, the requirement to reduce the time required at this stage of the process </br>
+2. Analyse, and solution to, the requirement to reduce the time required at this stage of the process </br>
 
-developing a data model to be used with an appropriate data visualisation tool for the purposes of implementing a high-quality data analysis solution
+3. Develop a data model to be used with an appropriate data visualisation tool for the purposes of implementing a high-quality data analysis solution
 
