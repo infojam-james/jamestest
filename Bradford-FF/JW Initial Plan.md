@@ -34,4 +34,7 @@ Quantative measurement of time spent on specific tasks/aspects of the process.
 Examples of forms/documents used
 
 **5. Summarise and coalesce**
-Each person's interview/sampling should be written up immediately/ASAP afterwards.
++ 5.1 Each person's interview/sampling should be written up immediately/ASAP afterwards.
++ 5.2 Where appropriate, make a rich picture or mind map
++ 5.3 Convert these into a Business Activity Model for each perspective
++ 5.4 Use individual BAMs to create consensus BAM  
