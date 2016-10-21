@@ -1,7 +1,9 @@
-##Reminder of key problems/issues for exploration:
+#Reminder of key problems/issues for exploration:
 + Not enough 'Quick Win' referrals
 + Not enough time for managers to process referrals
 + Not enough intelligence on families PBR was *not* able to be claimed for
+
+##Analysis of the current business situation
 
 **1. Get an organisation chart**</br>
 One with names and roles.  If no such chart exists, create one!
