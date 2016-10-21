@@ -1,3 +1,8 @@
+##Reminder of key problems/issues for exploration:
++ Not enough 'Quick Win' referrals
++ Not enough time for managers to process referrals
++ Not eough intelligence on families PBR was *not* able to be claimed for
+
 **1. Get an organisation chart**</br>
 One with names and roles.  If no such chart exists, create one!
 
@@ -29,3 +34,4 @@ Quantative measurement of time spent on specific tasks/aspects of the process.
 Examples of forms/documents used
 
 **5. Summarise and coalesce**
+Each person's interview/sampling should be written up immediately/ASAP afterwards.
