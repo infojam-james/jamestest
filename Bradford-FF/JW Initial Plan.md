@@ -37,4 +37,5 @@ Examples of forms/documents used
 + 5.1 Each person's interview/sampling should be written up immediately/ASAP afterwards.
 + 5.2 Where appropriate, make a rich picture or mind map
 + 5.3 Convert these into a Business Activity Model for each perspective
-+ 5.4 Use individual BAMs to create consensus BAM  
++ 5.4 Use individual BAMs to create consensus BAM.  Remember that BAMs illustrate the process *as it should be, not necessarily as it is*
++ Perform gap analysis between the 'as is' and 'should be' situation
