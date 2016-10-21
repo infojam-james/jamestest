@@ -21,7 +21,7 @@ Certain criteria - e.g. marginal school attendance - should be relatively easy t
 While the service seeks greater numbers of referrals, FF managers struggle to process (allocate to lead practitioners) large numbers of referrals in a timely manner, resulting in a sometimes-significant time lag before working with a family begins; during that time lag, the families' circumstances might change, and opportunities for claiming PBR may be missed.</br>
 
 ####Not enough intelligence relating to families for which it has not been possible to claim PBR
-This is something that Cat does not have capacity to address at present.  However, she feels that better quality analysis of such families would yield immediate gains by identifying families that are 'practically there', thus allowing for a final 'push' to get them over a threshold, or to make a case for PBR after review on a pragmatic and common-sense basis.  It would also add significant value through the identifying of trends in where these barriers appear to exist.</br>
+This is something that Cat does not have capacity to address at present.  However, she feels that better quality analysis of such families would yield immediate gains by identifying families that are 'practically there', thus allowing for a final 'push' to get them over a threshold, or to make a case for PBR after review on a pragmatic and common-sense basis.  It would also add significant value through the identifying of trends where these barriers appear to exist.</br>
 
 
 ###Proposed focus of initial support
