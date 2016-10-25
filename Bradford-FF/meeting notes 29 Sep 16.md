@@ -41,5 +41,5 @@ This is something that Cat does not have the time at present to address.  Howeve
 + The initial identifying of families typically starts with the social care systems, as this is the most joined-up in terms of family members.
 + Julie's response was telling when I spoke of trying to identify where processes could be improved: "well, where do we start?!".
 + Cat forsees a potential future issue once Universal Credit becomes more widely distributed, as it is a 'sliding scale' rather than an yes/no conditional like other benefits.  At the moment it's not a big problem, but it may require amendments to the criteria in future.
-+ *Note to self: Develop a BAM, complemented by a Swimlane, as that's the best tool for revealing bottlenecks
+*Note to self: Develop a BAM, complemented by a Swimlane, as that's the best tool for revealing bottlenecks*
 
