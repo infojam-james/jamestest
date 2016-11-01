@@ -18,24 +18,29 @@ This would be simple in nature, but would insert an additional step for administ
 + Additional field to Phase 2 database
 Given that the FF team in general lacks confidence in the 'ChildView' system
 
-**2 Make it easier to complete a referral form**
+**2 Improve process for accessing, and completing referral forms right first time**
 ####Options
 + Intranet page with online form
 + 
 
 
 
-##Automationg/Streamlining of referrals/triage process
+
+##Update & streamline the referral/triage/allocation process
 
 ###Summary of issues
+The principle format for documentation is MS Word and MS Excel documents.  There are many of these, including:
+
+**2 Word documents for every referral**
+Each week, a new folder is created on the K Drive following the naming convention 'Received Week Beginning [DD.MM.YYYY]'.  Inside this folder are sub-folders named after each consistuency.  Inside these folders are placed:
++ the completed **Referral Form** for each new referrals residing in this consistuency
++ An **Additional Information form** for this referral
+The additional information form contains some quantative data (school attendance), but mostly provides space for comments.  The form does not prompt for an explicit judgment on whether the referral meets any of the 6 criteria, and there is no tracking of which criteria have been completed and which have not.
+
 Presently the referrals process consists of multiple manual checks.  There is no single source of the following key information:
 + Whether a referral has previously been claimed for (currently list derived from Phase 2 database, but only updated periodically)
 + Whether a referral is currently in the programme (live Phase 2)
 
-###Targeted benefits:
-+ Reduced duplication for FF Admin
-+ Reduced burden on Admin to provide notifications
-+ Time compression between receipt of referral and allocation
 
 
 ##Expedite the replacement of ChildView
