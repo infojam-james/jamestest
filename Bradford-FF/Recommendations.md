@@ -5,10 +5,9 @@ At present there is no process, and therefore no information, around the routes 
 + "Alot of schools don't even know who Families First is."
 + "40-50% of referral forms get returned because they are incomplete or inaccurate."
 
-However, short of trawling through hundreds of individual emails, there is no way of gathering evidence to substantiate or refute any of these claims, which in turn makes it difficult to justify any resources required to identify where engagement might be improved.  The 
+It is logical to assume that cases are being missed due to the gaps in these potential referral routes.  However, short of trawling through hundreds of individual emails dating back to 2014, there is no way of gathering the quantative evidence to substantiate or refute any of these claims.  This in turn makes it difficult to justify any resources required to improve engagement.
 
-It is logical to assume that cases are being missed due to the gaps in these potential referral routes.  However, lack of intelligence around the referrals process.  A more pro-active approach to engagement of front-line services 
-
+The FF service has no 'public' face.  This seems, at least in part, to have created a Catch-22 situation: front line services need to already know about FF in order to make referrals, yet they need to already have made a referral in order to know about Families First.
 
 
 
