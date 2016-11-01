@@ -21,7 +21,8 @@ Given that the FF team in general lacks confidence in the 'ChildView' system
 **2 Improve process for accessing, and completing referral forms right first time**
 ####Options
 + Intranet page with online form
-+ 
++ Online form has sufficient validation to ensure that all mandatory fields are completed
++ Once submitted, form is sent to both FF Admin mailbox and referrer email.  
 
 
 
@@ -51,3 +52,5 @@ Key issues with ChildView are:
 + Data held is not trusted - checking information on ChildView, as a general rule, gets corroborated by data from other sources (e.g. Phase 2 database, Liquid Logic)
 + ChildView's shortcomings have created multiple 'workaround' processes' - related to the previous point, the ongoing requirement to use it creates duplication in data and process terms.  To quote on FF team member, "ChildView has become a recording system, *not* a monitoring system."
 + Documents cannot be uploaded to the system if it being accessed remotely (e.g. when working from home)
+
+##Introduce a robust process for conducting triage against Health criteria
