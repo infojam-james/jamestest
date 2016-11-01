@@ -1,4 +1,4 @@
-##Develop an intelligent approach to engagement with front line services
+##Develop greater, targeted, engagement with front line services
 At present there is no process, and therefore no information, around the routes from/to referrals.  The following information has been relayed anecdotally by various members of the FF team:
 
 + "Hardly any referrals come from Housing."
