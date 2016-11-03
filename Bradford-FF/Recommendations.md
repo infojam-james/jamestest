@@ -20,9 +20,7 @@ Given that the FF team in general lacks confidence in the 'ChildView' system
 
 **2 Improve process for accessing, and completing referral forms right first time**
 ####Options
-+ Intranet page with online form
-+ Online form has sufficient validation to ensure that all mandatory fields are completed
-+ Once submitted, form is sent to both FF Admin mailbox and referrer email.  
++ Intranet page with online form.  Online form has sufficient validation to ensure that all mandatory fields are completed.  Once submitted, form is sent to both FF Admin mailbox and referrer email.  
 
 
 
