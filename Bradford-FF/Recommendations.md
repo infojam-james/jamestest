@@ -6,9 +6,9 @@ At present there is no process, and therefore no information, around the routes 
 + "However, those schools who do know about us give us a good number of referrals."
 + "40-50% of referral forms get returned because they are incomplete or inaccurate."
 
-While it is logical to assume that many of the cases being missed due to these referral route 'gaps' are being identified in other ways through other services, it is equally logical to assume that this is not always the case.  However, short of trawling through hundreds of individual emails dating back to 2014, there is no way of gathering the quantative evidence to substantiate or refute any of these claims.  This in turn makes it difficult to justify any resources required to improve engagement.
+While it is logical to assume that many of the cases being missed due to these referral route 'gaps' are being identified in other ways through other services, it is equally logical to assume that this is not always the case; it is the view of at least on FF team member that referrals would increase through 'filling in these blind spots'.  However, short of trawling through hundreds of individual emails dating back to 2014, there is no way of gathering the quantative evidence to substantiate or refute any of these claims.  This in turn makes it difficult to justify any resources required to improve engagement.
 
-As the FF service has no 'public' face (to front line services), this seems, at least in part, to have created a Catch-22 situation: front line services need to already know about Families First in order to make a referral for the first time, yet only those services that have made a referral in the past seem to know about Families First.
+As the FF service has no 'public' face (to front line services), this seems, at least in part, to have created a Catch-22 situation: front line services need to already know about Families First in order to make a referral for the first time, yet only those services that have made a referral in the past seem to know about Families First. - *hopefully remedied by the new Early Help Gateway
 
 ###Recommendations
 **1 Design and implement a process for capturing referral route data**
