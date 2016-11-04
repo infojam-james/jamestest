@@ -73,4 +73,6 @@ Given the potential to secure PBR claims against such criteria relatively easy (
 + Tier 2 (approx 30-35%): 6 months
 + Tier 3 (approx 10%): 9 months
 
-When these time limits are reached, the case status is changed to 'Closed' on the Phase 2 database, whether or not a PBR claim can be made.  The purpose of this is to impose a practical limit on intervention length, against which progress can be gauged.  However, in many cases work continues with these families, particularly in the case of Tier 3s.  This may account, at least in part, for the seemingly large number of cases that are 'Closed' but for which PBR has not been claimed.
+When these time limits are reached, the case status is changed to 'Closed' on the Phase 2 database, whether or not a PBR claim can be made.  The purpose of this is to impose a practical limit on intervention length, against which progress can be gauged.  However, in many cases work continues with these families, particularly in the case of Tier 3s.  This may account, at least in part, for the seemingly large number of cases that are 'Closed' but for which PBR has not been claimed.  
+
+The Phase 2 database updates regularly from most data sources related to the programme, ensuring that cases can be measured for meeting improvement criteria in purely quantative terms relatively easily.
