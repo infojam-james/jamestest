@@ -1,3 +1,12 @@
+#Bradford MDC
+##Consultancy on Families First Project
+###Last updated: 4th November 2016
+
+##Background
+The Families First.
+
+Families First is currently participating in the pilot scheme of a proposed Early Help Service.  This will be  the introduction of , along with the Early Help Gateway
+
 ##Develop greater, targeted, engagement with front line services
 At present there is no process, and therefore no information, around the routes from/to referrals.  The following information has been relayed anecdotally by various members of the FF team:
 
@@ -25,7 +34,7 @@ Given that the FF team in general lacks confidence in the 'ChildView' system
 
 
 
-##Update & streamline the referral/triage/allocation process
+##Use the Early Help Gateway to reconfigure the referral/triage/allocation process
 
 ###Summary of issues
 The principle format for documentation is MS Word and MS Excel documents.  There are many of these, including:
