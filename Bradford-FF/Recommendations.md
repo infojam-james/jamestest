@@ -22,8 +22,7 @@ While it is logical to assume that many of the cases being missed due to these r
 
 As the FF service has no 'public' face (to front line services), this seems, at least in part, to have created a Catch-22 situation: front line services need to already know about Families First in order to make a referral for the first time, yet only those services that have made a referral in the past seem to know about Families First. - *hopefully remedied by the new Early Help Gateway
 
-###Recommendations
-**1 Implement new process for accessing and completing referral forms, in the process ensuring the capture of referral route data**
+It is therefore recommended that new process for accessing and completing referral forms is implemented, one that in the process ensures the capture of referral route data in such a way as to make it suitable for analysis.
 ####Options
 + New Spreadsheet
 This would be simple in nature, but would insert an additional step for administrators to complete in what is already a process with many steps.
