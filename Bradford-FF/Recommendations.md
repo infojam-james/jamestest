@@ -75,4 +75,6 @@ Given the potential to secure PBR claims against such criteria relatively easy (
 
 When these time limits are reached, the case status is changed to 'Closed' on the Phase 2 database, whether or not a PBR claim can be made.  The purpose of this is to impose a practical limit on intervention length, against which progress can be gauged.  However, in many cases work continues with these families, particularly in the case of Tier 3s.  This may account, at least in part, for the seemingly large number of cases that are 'Closed' but for which PBR has not been claimed.  
 
-The Phase 2 database updates regularly from most data sources related to the programme, ensuring that cases can be measured for meeting improvement criteria in purely quantative terms relatively easily.
+The Phase 2 database pulls regular updates from several data sources related to the programme, ensuring that cases can be measured for meeting improvement criteria in purely quantative terms relatively easily.  However, it unclear how effective this is with regards to:
++ Assigning closed cases as suitable for PBR claim retrospectively
++ Automating, and thus assigning PBR suitability, for more qualitative data.
