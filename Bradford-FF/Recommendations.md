@@ -7,7 +7,8 @@ The Families First.
 
 Families First is currently participating in the pilot scheme of a proposed Early Help Service.  This will be  the introduction of , along with the Early Help Gateway
 
-##Develop greater, targeted, engagement with front line services
+##Use the implementation of the Early Help Gateway to develop more robust processes around referrals and triage
+
 At present there is no process, and therefore no information, around the routes from/to referrals.  The following information has been relayed anecdotally by various members of the FF team:
 
 + "Hardly any referrals come from Housing."
@@ -32,10 +33,6 @@ Given that the FF team in general lacks confidence in the 'ChildView' system
 + Intranet page with online form.  Online form has sufficient validation to ensure that all mandatory fields are completed.  Once submitted, form is sent to both FF Admin mailbox and referrer email.  
 
 
-
-
-##Use the Early Help Gateway to reconfigure the referral/triage/allocation process
-
 ###Summary of issues
 The principle format for documentation is MS Word and MS Excel documents.  There are many of these, including:
 
@@ -49,8 +46,6 @@ Presently the referrals process consists of multiple manual checks.  There is no
 + Whether a referral has previously been claimed for (currently list derived from Phase 2 database, but only updated periodically)
 + Whether a referral is currently in the programme (live Phase 2)
 
-
-
 ##Expedite the replacement of ChildView
 
 ChildView is the case management system currently in situ.  It is being replaced with LiquidLogic LCS, however no timescale on this has been relayed to the Families First team.  A 3-day training session was abandoned  half-way through day 1 when it became apparent that the delegate profile was one with wildly varying needs, needs that the trainer had been inadequately prepared for.
@@ -61,3 +56,11 @@ Key issues with ChildView are:
 + Documents cannot be uploaded to the system if it being accessed remotely (e.g. when working from home)
 
 ##Introduce a robust process for conducting triage against Health criteria
+
+##Review cut-off periods and review process for tiered interventions
+
++ Tier 1 (approx 55-60% of all interventions): 12-16 weeks
++ Tier 2 (approx 30-35%): 6 months
++ Tier 3 (approx 10%): 9 months
+
+When these time limits are reached, the case status is changed to 'Closed' on the Phase 2 database, whether or not a PBR claim can be made.  The purpose of this is to impose a practical limit on intervention length, against which progress can be gauged.  However, in many cases work continues with these families, particularly in the case of Tier 3s.  This may account, at least in part, for the seemingly large number of cases that are 'Closed' but for which PBR has not been claimed.
