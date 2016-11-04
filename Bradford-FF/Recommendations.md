@@ -3,9 +3,11 @@
 ###Last updated: 4th November 2016
 
 ##Background
-The Families First.
+[general background goes here]
 
-Families First is currently participating in the pilot scheme of a proposed Early Help Service.  This will be  the introduction of , along with the Early Help Gateway
+[overview of team structure goes here]
+
+Families First is currently part of the pilot scheme of a proposed Early Help Service.  This will be a devolved service comprising several related, currently standalone, services.  The pilot scheme is geographically structured - the constituency of Keighley, and the postcode areas BD3, BD4 and BD5 are included in it.  As FF Manager also work on a geographical basis, only the manager for those areas is directly involved in the pilot at this stage.
 
 ##Use the implementation of the Early Help Gateway to develop more robust processes around referrals and triage
 
