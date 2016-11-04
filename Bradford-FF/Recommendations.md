@@ -1,5 +1,5 @@
 #Bradford MDC
-##Consultancy on Families First Project
+##Families First Consultancy Project
 ###Last updated: 4th November 2016
 
 ##Background
@@ -35,11 +35,8 @@ Given that the FF team in general lacks confidence in the 'ChildView' system
 The principle format for documentation is MS Word and MS Excel documents.  There are several of these, including:
 
 + 2 Word documents for every referral (a completed Referral Form and an Additional Information form for identifying criteria).  The additional information form contains some quantative data (school attendance), but mostly provides space for comments.  The form does not prompt for an explicit judgment on whether the referral meets any of the 6 criteria, and there is no recording at this stage which criteria have been completed and which have not.
-
 + An Allocation Form for each FF Manager (Excel).  This is generally considered to be an exercise in duplication by the administrators that are responsibile for completing it.
-
 + A tracking sheet (Word) for administrators to help "keeping their sanity" by keeping track of the referral's status.
-
 + A ticksheet (Excel, usually printed) for administrators, to help ensure they complete all required tasks
 
 Despite the referrals process consisting of multiple manual checks, there is no single source of the following key information:
@@ -61,7 +58,14 @@ Key issues with ChildView are:
 
 There is currently no process for measuring a referral against health criteria.  The Health team that was part of the service was removed in 2014.  Since then, unless a referral has specifically come via a health-related route (and while triage processes against other criteria do often 'pick up' information related to mental health, it is very common that checks against health criteria are not completed, if they are carried out at all.  
 
+This includes the absence of any robust process for checking referrals against the following Health criteria:
++ At least one child is not registered with a GP at the inclusion date.
++ At least one child is not accessing dental services at the inclusion date.
++ At least one pre-school child is not up to date with their immunisations at the inclusion date.
 
+It is believed anecdotally that the Initial Assessment Team has access to GP registration data, however they are unable (or unwilling) to share this information.  After speaking to a member of the IAT, it is believed that this information may be available at a cost of £900 per year from the same source as the IAT acquire it from.
+
+Given the potential to secure PBR claims against such criteria relatively easy (compared with other criteria), it is recommended that the implementation of a framework to ensure appropriate capture and tracking of such information for referrals be a priority.  In this regard, it should be noted that representatives from health services currently sit on the panel for the development of the Early Help Service.  Given that the purpose of the Early Help Service is to promote collaborative working, including better information sharing, it is a feeling shared by several members of the current Families First Team that the combined Early Help Service may help resolve this issue.  However, it is still highly recommended that an explicit solution be pursued.
 
 ##Review cut-off periods and review process for tiered interventions
 
