@@ -5,7 +5,12 @@
 ##Background
 [general background goes here]
 
-[overview of team structure goes here]
+The Families First team is currently structured thus:
++ An Admin Team of 4
++ 3 Managers, responsible for allocating and managing case workers by geography/constituency
++ Secondees from the Police force (an officer and researcher), and from the Department from Work and Pensions
+
+All members of the service use what is commonly known as the 'Phase 2 database', maintained by an Intelligence Officer, working in the OCE.
 
 Families First is currently part of the pilot scheme of a proposed Early Help Service.  This will be a devolved service comprising several related, currently standalone, services.  The pilot scheme is geographically structured - the constituency of Keighley, and the postcode areas BD3, BD4 and BD5 are included in it.  As FF Manager also work on a geographical basis, only the manager for those areas is directly involved in the pilot at this stage.
 
