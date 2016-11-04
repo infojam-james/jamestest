@@ -11,7 +11,7 @@ Families First is currently part of the pilot scheme of a proposed Early Help Se
 
 ##Use the implementation of the Early Help Gateway to develop more robust processes around referrals and triage
 
-At present there is no process, and therefore no information, around the routes from/to referrals.  The following information has been relayed anecdotally by various members of the FF team:
+At present there is no process, and therefore no data, around the routes from/to referrals.  The following information has been relayed anecdotally by various members of the FF team:
 
 + "Hardly any referrals come from Housing."
 + "Alot of schools don't even know who Families First is."
@@ -23,30 +23,30 @@ While it is logical to assume that many of the cases being missed due to these r
 As the FF service has no 'public' face (to front line services), this seems, at least in part, to have created a Catch-22 situation: front line services need to already know about Families First in order to make a referral for the first time, yet only those services that have made a referral in the past seem to know about Families First. - *hopefully remedied by the new Early Help Gateway
 
 ###Recommendations
-**1 Design and implement a process for capturing referral route data**
+**1 Implement new process for accessing and completing referral forms, in the process ensuring the capture of referral route data**
 ####Options
 + New Spreadsheet
 This would be simple in nature, but would insert an additional step for administrators to complete in what is already a process with many steps.
 + Additional field to Phase 2 database
 Given that the FF team in general lacks confidence in the 'ChildView' system
-
-**2 Improve process for accessing, and completing referral forms right first time**
-####Options
 + Intranet page with online form.  Online form has sufficient validation to ensure that all mandatory fields are completed.  Once submitted, form is sent to both FF Admin mailbox and referrer email.  
 
-
 ###Summary of issues
-The principle format for documentation is MS Word and MS Excel documents.  There are many of these, including:
+The principle format for documentation is MS Word and MS Excel documents.  There are several of these, including:
 
-**2 Word documents for every referral**
-Each week, a new folder is created on the K Drive following the naming convention 'Received Week Beginning [DD.MM.YYYY]'.  Inside this folder are sub-folders named after each consistuency.  Inside these folders are placed:
-+ the completed **Referral Form** for each new referrals residing in this consistuency
-+ An **Additional Information form** for this referral
-The additional information form contains some quantative data (school attendance), but mostly provides space for comments.  The form does not prompt for an explicit judgment on whether the referral meets any of the 6 criteria, and there is no tracking of which criteria have been completed and which have not.
++ 2 Word documents for every referral (a completed Referral Form and an Additional Information form for identifying criteria).  The additional information form contains some quantative data (school attendance), but mostly provides space for comments.  The form does not prompt for an explicit judgment on whether the referral meets any of the 6 criteria, and there is no recording at this stage which criteria have been completed and which have not.
 
-Presently the referrals process consists of multiple manual checks.  There is no single source of the following key information:
++ An Allocation Form for each FF Manager (Excel).  This is generally considered to be an exercise in duplication by the administrators that are responsibile for completing it.
+
++ A tracking sheet (Word) for administrators to help "keeping their sanity" by keeping track of the referral's status.
+
++ A ticksheet (Excel, usually printed) for administrators, to help ensure they complete all required tasks
+
+Despite the referrals process consisting of multiple manual checks, there is no single source of the following key information:
 + Whether a referral has previously been claimed for (currently list derived from Phase 2 database, but only updated periodically)
 + Whether a referral is currently in the programme (live Phase 2)
+
+This is partly down to the unreliable nature of the information held in ChildView.
 
 ##Expedite the replacement of ChildView
 
@@ -58,6 +58,10 @@ Key issues with ChildView are:
 + Documents cannot be uploaded to the system if it being accessed remotely (e.g. when working from home)
 
 ##Introduce a robust process for conducting triage against Health criteria
+
+There is currently no process for measuring a referral against health criteria.  The Health team that was part of the service was removed in 2014.  Since then, unless a referral has specifically come via a health-related route (and while triage processes against other criteria do often 'pick up' information related to mental health, it is very common that checks against health criteria are not completed, if they are carried out at all.  
+
+
 
 ##Review cut-off periods and review process for tiered interventions
 
